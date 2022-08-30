@@ -1,0 +1,25 @@
+{
+  "cancerLibraryApp": {
+    "point": {
+      "home": {
+        "title": "Points",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Create a new Point",
+        "createOrEditLabel": "Create or edit a Point",
+        "notFound": "No Points found"
+      },
+      "created": "A new Point is created with identifier {{ param }}",
+      "updated": "A Point is updated with identifier {{ param }}",
+      "deleted": "A Point is deleted with identifier {{ param }}",
+      "delete": {
+        "question": "Are you sure you want to delete Point {{ id }}?"
+      },
+      "detail": {
+        "title": "Point"
+      },
+      "id": "ID",
+      "title": "Title",
+      "description": "Description"
+    }
+  }
+}
